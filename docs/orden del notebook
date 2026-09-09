@@ -1,0 +1,19 @@
+1. Cargar datos
+       ↓
+2. Inspección inicial
+       ↓
+3. Valores nulos y duplicados
+       ↓
+4. Análisis univariado categórico
+       ↓
+5. Análisis univariado numérico
+       ↓
+6. Análisis de valores atípicos
+       ↓
+7. Imputación / tratamiento de nulos
+       ↓
+8. Análisis bivariado
+       ↓
+9. Análisis multivariado
+       ↓
+10. Preparación para Machine Learning
